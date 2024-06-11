@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranjal500&label=Profile%20views&color=0e75b6&style=flat" alt="pranjal500" /> </p>
 
-- 🔭 I’m currently working on **E-commerce Website using MERN stack**
+- 🔭 I’m currently working on **Webapp using MERN stack**
 
 - 🌱 I’m currently learning **Nodejs**
 
@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Pranjal500](https://github.com/Pranjal500)
 
-- 📫 How to reach me **singhpranjal822@gmail.com**
+- 📫 How to reach me **mrpranjal917@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
